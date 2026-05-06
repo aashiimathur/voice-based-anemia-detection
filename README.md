@@ -128,12 +128,12 @@ npm start
 
 # Application Features
 
-Upload audio in multiple formats
-Record voice directly from browser
-Predict hemoglobin levels
-Detect anemia severity
-Show confidence score
-Generate biomarker analysis
+- Upload audio in multiple formats
+- Record voice directly from browser
+- Predict hemoglobin levels
+- Detect anemia severity
+- Show confidence score
+- Generate biomarker analysis
 
 ---
 
